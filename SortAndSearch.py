@@ -217,3 +217,25 @@ if __name__ == "__main__":
     # Демонстрация всех алгоритмов
     print("=== All Algorithms Demo ===")
     demonstrate_algorithms()
+    # Вывод из jdoodle
+    # Before bubble sort: [64, 34, 25, 12, 22, 11, 90]
+# After bubble sort: [11, 12, 22, 25, 34, 64, 90]
+
+# Before shell sort: [23, 12, 1, 8, 34, 54, 2, 3]
+# After shell sort: [1, 2, 3, 8, 12, 23, 34, 54]
+
+# Before quick sort: [10, 7, 8, 9, 1, 5]
+# After quick sort: [1, 5, 7, 8, 9, 10]
+
+# Linear search for 10 in [2, 3, 4, 10, 40]: index 3
+
+## Fibonacci search for 85 in [10, 22, 35, 40, 45, 50, 80, 82, 85, 90, 100]: index 8
+
+# === All Algorithms Demo ===
+# Original array: [64, 34, 25, 12, 22, 11, 90, 88, 76, 50, 42]
+# Bubble Sort: [11, 12, 22, 25, 34, 42, 50, 64, 76, 88, 90]
+# Shell Sort: [11, 12, 22, 25, 34, 42, 50, 64, 76, 88, 90]
+# Quick Sort: [11, 12, 22, 25, 34, 42, 50, 64, 76, 88, 90]
+# Linear Search for 42: index 5
+# Fibonacci Search for 42: index 5
+
